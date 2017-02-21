@@ -1,1 +1,1 @@
-# exercises-learn-to-program
+# This repository is for all of the small programs and exercises that are detailed in Chris Pine's "Learn to Program" book (focused on Ruby).
